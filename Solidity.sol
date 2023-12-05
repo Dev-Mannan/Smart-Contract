@@ -212,7 +212,7 @@ pragma solidity >=0.5.0 < 0.9.0;
 
 // Storage
 
-// contract demp
+ contract demp
 // {
 //     string[] public student=['Mannan','Mark','Edwardo'];
 
